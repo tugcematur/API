@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EWMBkNtJGoBOaLCwqD9oSemCGem3c/V5cQYttkVBZ6U=",
+  "Source": "NMAPI",
+  "BasePath": "_content/NMAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

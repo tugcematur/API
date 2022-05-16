@@ -1,0 +1,32 @@
+﻿Paketleri yüklemeyi unutma!
+DB First yaptık
+
+Swagger bir Dökümantasyon API mizin başkalarınca nasıl kullanıldığının  anlaşılması için
+
+http://localhost:6676/WeatherForecast url e yaz
+
+
+http://localhost:6676/WeatherForecast/Forecast url e yazıyoruz metod ekledik adını değiştik 
+
+
+http://localhost:6676/Personel/List 
+
+[HttpGet] ile tanımlanan birden fazl a metot olursa çalışmaz Name vermeliyiz 
+
+[HttpDelete] Delete te
+[HttpPut] Update                 Geleneksel olarak yoksa post edilir yine de ile
+
+
+ public GeneralResponse Create(Personel personel,[FromServices] GeneralResponse response)
+ {}
+ Sadece bir metotta kullanıcaksak contructor da tanımlamaya gerek yok GeneralResponse ı ama program.cs te tanımlayacaksın ordan çekiyor çünkü 
+
+
+ Db First ile Create metodu çalışmadı Code First ile yapılmalı 
+
+ ama aslında olay aşağıdakiyle ilgili!!!!
+  public virtual City ?City { get; set; } //  null!; ukaldırdık City nin soluna ? koyduk null olabilir dedik yani normalde null olamazdı 
+  Arada Bağlantı olduğu (relation) için null olamaz olarak geliyor DbFirst te
+
+
+  DAtabase deki bozukluktan dolayı Update yapıldığında yeni kayıt olarak ekliyor 

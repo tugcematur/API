@@ -1,0 +1,17 @@
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\bin\Debug\net6.0\KatmanliAPI.Dal.deps.json
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\bin\Debug\net6.0\KatmanliAPI.Dal.runtimeconfig.json
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\bin\Debug\net6.0\KatmanliAPI.Dal.dll
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\bin\Debug\net6.0\KatmanliAPI.Dal.pdb
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\bin\Debug\net6.0\KatmanliAPI.Entity.dll
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\bin\Debug\net6.0\KatmanliAPI.Entity.pdb
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\KatmanliAPI.Dal.csproj.AssemblyReference.cache
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\KatmanliAPI.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\KatmanliAPI.Dal.AssemblyInfoInputs.cache
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\KatmanliAPI.Dal.AssemblyInfo.cs
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\KatmanliAPI.Dal.csproj.CoreCompileInputs.cache
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\KatmanliAPI.Dal.csproj.CopyComplete
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\KatmanliAPI.Dal.dll
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\refint\KatmanliAPI.Dal.dll
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\KatmanliAPI.Dal.pdb
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\KatmanliAPI.Dal.genruntimeconfig.cache
+C:\301Sabah\16-RestfulWebAPI\KatmanliAPI\KatmanliAPI.Dal\obj\Debug\net6.0\ref\KatmanliAPI.Dal.dll

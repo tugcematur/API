@@ -1,0 +1,89 @@
+﻿Çoka Çok İlşki var ara tablo oluşacak
+
+
+
+Veritabanında İlişki Türleri
+Üç adet ilişki tipi bulunmaktadır;
+-     1’e 1, 
+-     1’den çoğa(1-n) 
+-     çoktan çoğa(n-m)
+
+http://kod5.org/veritabani-iliski-turleri/
+
+
+ Update-Database -context Context  -> KatmanliAPI.Dal  içinde
+
+ string parametreler sorun çıkartıyor int yap 
+
+ "{id:int}" olmalı 
+
+ https://www.mshowto.org/c-ta-virtual-class-yapisi-nedir-nasil-kullanilir-ornekli-anlatim.html
+
+ AbstractClass lar, sadece base class olarak davranmasını (yani inherit edilebilmesi) ve kendisinden instance çıkartılmamasını istediğimiz durumlarda kullanılır.
+
+Abstract Classların en büyük özelliği, içerisinde Abstract olan yada olmayan metodları barındırabilmesidir.
+
+*Abstract metodlar sadece Abstract Class larda tanımlanabilirler.
+
+abstract
+class
+AbstractClass1
+
+{
+
+
+private
+void method()
+
+{
+
+
+// Kod bloğumuz
+
+}
+
+
+public
+abstract
+void AbstractMethod1();
+
+
+public
+abstract
+void AbstractMethod2();
+
+}
+
+method   = Abstract olmayan metod
+
+AbstractMethod1     = Abstract metod
+
+AbstractMethod2     = Abstract metod
+
+Abstract Class içerisindeki Abstrac metodların gövdesi olamaz. Çünkü onlar sadece miras verdiği class larda implement edilebilir.
+
+
+Abstract Class içerisinde tanımlanan abstract olmayan metotlar, normal classlarımızda tanımladığımız metotlarımız gibidir, bir farkı yoktur.
+
+
+
+Abstract metodlar, private olarak tanımlanamazlar. Çünkü, private metotlar, miras alınan class lar tarafından implement edilemediklerinden dolayı, Abstract yapısına ters düşmektedir.
+Abstract metodlar, sadece Abstract classlar içerisinde tanımlanabilir.
+Abstract metodlar, Virtual olarak tnaımlanamazlar. Virtual Classlar adlı makalemde anlattığım gibi, aslında her abstract class virtual dır. Abstract Class ın da amacı miras alındığı class ta implemente edilmek olduğu için Virtual yazıldığı takdirde hata alınacaktır.
+Abstract metodlar, Static olarak tanımlanamazlar. Statik kavramı, Class özelliği yada metodu olduğu için instance çıkarmaya gerek yoktur. Halbu ki, Statik olmayan metotlar, instance metotlarıdır. Abstract bir class ta, abstract olmayan static bir metod tanımlanabiliyorken, miras alındığı class ta implemente edilme zorunluluğu olduğundan, Abstract metodlar static olarak tanımlanamazlar.
+Abstrac metodların gövdesi olamaz. Çünkü onlar sadece miras alındığı class larda implement edilebilir.
+
+
+ https://www.mshowto.org/abstractclass-nedir-nasil-kullanilir-aciklamali-ornekler-ile-anlatim.html
+
+
+ Virtual, metodlara uygulanan anahtar bir sözcüktür. 
+ Ve Virtual olarak tanımladığımız metodlarımızı, diğer class larda override edebiliriz.
+
+Yani, kalıtıldığı(miras alındığı) sınıfta metodun gövdesini ( süslü parantezlerin içi) değiştirebileceğimiz anlamına gelir.
+
+
+https://www.gencayyildiz.com/blog/c-repository-design-patternrepository-tasarim-deseni/
+
+NOT: Visual studio 'da  WCF API yi ekleyip kullanabiliriz sadece.
+Bizim oluşturduğumuz Web API React ta kullanıcaz 

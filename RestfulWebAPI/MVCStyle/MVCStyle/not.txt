@@ -1,0 +1,46 @@
+﻿DB First yapıcaz kolaylık olsun diye
+
+Paketleri yüklicez
+
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<Context>(options =>
+    options.UseSqlServer(connectionString));
+
+
+    Scaffold-DbContext "Server=DESKTOP-HRRA875\SQLEXPRESS;Database=PerDbCore;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data 
+
+    Normal bir MVC projesi  oluşturduk View e ihtiyacımız olmayacak çünkü  arayüz API den gelicek datayı API den çekicez.
+
+
+    https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/formatting?view=aspnetcore-6.0
+
+
+
+    https://stackoverflow.com/questions/50771647/confused-with-frombody-in-asp-net-core
+
+    Postman => API testi yapar 
+    Http istemcisi
+
+
+    -------------------------
+     Json Formatter          |  
+     Json Placeholder       |    
+                             | 
+    --------------------------
+    Postman -> username= tugcematur
+
+  My Workspace  Collections lara bütün metotları giriyorum -> Add Request
+  Save etmeyi unutma 
+
+
+  Servis programlamada Mapping ?
+
+
+
+  Karışık projelerde birkaç tane response classı oluşturuyoruz
+  Burada genel bir tane oluşturduk. 
+
+
+
+  delete2 türlü yapilir Get ve Post ile 
