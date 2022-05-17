@@ -1,0 +1,34 @@
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.DTO.deps.json
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.DTO.runtimeconfig.json
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.DTO.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.DTO.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.AssemblyInfoInputs.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.AssemblyInfo.cs
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\refint\ECommerce.DTO.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.genruntimeconfig.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ref\ECommerce.DTO.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.csproj.CopyComplete
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.DTO.deps.json
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.DTO.runtimeconfig.json
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.DTO.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.DTO.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\bin\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.csproj.AssemblyReference.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.AssemblyInfoInputs.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.AssemblyInfo.cs
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.csproj.CopyComplete
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\refint\ECommerce.DTO.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ECommerce.DTO.genruntimeconfig.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DTO\obj\Debug\net6.0\ref\ECommerce.DTO.dll

@@ -1,0 +1,34 @@
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.DAL.deps.json
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.DAL.runtimeconfig.json
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.DAL.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.DAL.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.AssemblyInfo.cs
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.csproj.CopyComplete
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\refint\ECommerce.DAL.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.genruntimeconfig.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ref\ECommerce.DAL.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.DAL.deps.json
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.DAL.runtimeconfig.json
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.DAL.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.DAL.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\bin\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.csproj.AssemblyReference.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.AssemblyInfo.cs
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.csproj.CopyComplete
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\refint\ECommerce.DAL.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ECommerce.DAL.genruntimeconfig.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.DAL\obj\Debug\net6.0\ref\ECommerce.DAL.dll

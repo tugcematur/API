@@ -1,0 +1,46 @@
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.deps.json
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.runtimeconfig.json
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.AssemblyInfoInputs.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.AssemblyInfo.cs
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\refint\ECommerce.Repository.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.genruntimeconfig.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ref\ECommerce.Repository.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Core.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.DAL.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.DTO.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Core.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.DTO.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.DAL.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.CopyComplete
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.deps.json
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.runtimeconfig.json
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Core.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.DAL.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.DTO.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Core.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.DTO.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.DAL.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.AssemblyReference.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.AssemblyInfoInputs.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.AssemblyInfo.cs
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.CoreCompileInputs.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.CopyComplete
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\refint\ECommerce.Repository.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.genruntimeconfig.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ref\ECommerce.Repository.dll

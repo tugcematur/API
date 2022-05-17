@@ -1,0 +1,28 @@
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\bin\Debug\net6.0\ECommerce.Entity.deps.json
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\bin\Debug\net6.0\ECommerce.Entity.runtimeconfig.json
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\bin\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\bin\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.AssemblyInfoInputs.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.AssemblyInfo.cs
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\refint\ECommerce.Entity.dll
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.genruntimeconfig.cache
+C:\Users\SEM\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ref\ECommerce.Entity.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\bin\Debug\net6.0\ECommerce.Entity.deps.json
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\bin\Debug\net6.0\ECommerce.Entity.runtimeconfig.json
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\bin\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\bin\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.csproj.AssemblyReference.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.AssemblyInfoInputs.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.AssemblyInfo.cs
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\refint\ECommerce.Entity.dll
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.pdb
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ECommerce.Entity.genruntimeconfig.cache
+C:\Users\SC-301 2\Desktop\ECommerce\ECommerce.Entity\obj\Debug\net6.0\ref\ECommerce.Entity.dll
